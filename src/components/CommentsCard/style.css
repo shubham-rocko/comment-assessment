@@ -1,0 +1,54 @@
+.comment-wrapper {
+  border: 1px solid #c8c8c8;
+  padding: 12px;
+  background: #ececec;
+  border-radius: 4px;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.name-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.name-wrapper h4 {
+  margin: 0;
+}
+
+.textarea-wrapper {
+  margin-bottom: 12px;
+}
+
+.btns-wrapper button {
+  border: none;
+  color: #0079eb;
+  cursor: pointer;
+}
+
+.btns-wrapper button:first-child {
+  padding: 0;
+}
+
+.delete-btn {
+  width: 34px;
+  height: 34px;
+  border: 1px solid #919191;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transform: translate(50%, 100%);
+  cursor: pointer;
+}
+
+.delete-icon {
+  display: inline-block;
+}
+
+.delete-icon img {
+  width: 20px;
+  height: 20px;
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0",
+    "name": "Shyam Sundar",
+    "comment": "This is a Comment... Nice",
+    "commentedDate": 1675794600000,
+    "isEditable": false,
+    "isRepliable": false,
+    "isComment": true,
+    "replies": [
+      {
+        "id": "0-0",
+        "name": "Ram Sundar",
+        "comment": "This is a Comment... Nice",
+        "commentedDate": 1676658600000,
+        "isEditable": false,
+        "isRepliable": false
+      },
+      {
+        "id": "0-1",
+        "name": "Ram Sundar",
+        "comment": "This is a Comment... Nice",
+        "commentedDate": 1677522600000,
+        "isEditable": false,
+        "isRepliable": false
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "name": "Shyam Sundar",
+    "comment": "This is a Comment... Nice",
+    "commentedDate": 1690914600000,
+    "isEditable": false,
+    "isRepliable": false,
+    "isComment": true
+  }
+]

@@ -1,0 +1,24 @@
+.home-wrapper {
+  width: 100%;
+}
+
+.sort-btn-wrapper {
+  margin: 12px;
+  display: flex;
+  justify-content: end;
+}
+
+.sort-btn-wrapper button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.sort-icon {
+  display: inline-block;
+}
+
+.sort-icon img {
+  width: 12px;
+  height: 12px;
+}
